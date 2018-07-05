@@ -153,10 +153,10 @@ client.on('message', msg => {
 //    timestamp: new Date(),
 //    footer: {
 //      icon_url: <Client>.user.avatarURL,
-//      text: '© Example'
+//      text: 'Â© Example'
 //    }});
 //My key
 
 });
 
-Client.login("NDY0MTUwODk1Njg5NDY1ODY2.Dh6x2w.mrH5LpH_Iu_WulshcGTCARtV9Fs");
+Client.login("NDY0Mjk4MzM5ODUzMTM5OTcw.Dh88tg.nO-nZoNdzhNrdS_lfh02MRmp9nw");
