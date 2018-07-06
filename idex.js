@@ -7,7 +7,7 @@ const prefix = "!"
 
 Client.on("ready", () => {
 	console.log("online");
-	Client.user.setPresence({ game: { name: `Elytra Discord Server`, type: 0} });
+	Client.user.setPresence({ game: { name: `PureDiscords`, type: 0} });
 });
 
 // welcome message
